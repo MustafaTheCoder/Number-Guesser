@@ -1,2 +1,2 @@
-# number-guesser
-A number quessing simple game coded in Python!
+# Number Guesser
+A number quessing simple game coded in Python:)
